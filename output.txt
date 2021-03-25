@@ -1,0 +1,36 @@
+Employee ID Number: 1
+Name: Jones, Booker T.
+Dept Code: 22
+
+Employee ID Number: 2
+Name: Hendrix, Jimi NMI.
+Dept Code: 14
+
+
+Employee ID Number: 4
+Name: Poudyal, Oshan.
+Dept Code: 21
+The Annual Salary is: 256000
+The Monthly Salary is: 21333.3
+
+
+Employee ID Number: 3
+Name: Morrison, Jim D.
+Dept Code: 3
+The Hours Worked is: 80
+The Hourly Rate is: 25
+Overtime: 40
+The weekly salary is: 2500
+
+
+Employee ID Number: 1
+Name: Jones, Booker T.
+Dept Code: 69
+The Hours Worked is: 25
+The Hourly Rate is: 20
+Overtime: 0
+The weekly salary is: 500
+
+--------------------------------
+Process exited after 0.2195 seconds with return value 0
+Press any key to continue . . .
